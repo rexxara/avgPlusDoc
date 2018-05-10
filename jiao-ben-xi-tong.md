@@ -1,0 +1,16 @@
+---
+description: script system
+---
+
+# 脚本系统
+
+脚本系统是引擎为游戏逻辑提供的基础API，这些API包括对话处理、流程控制、声音处理、图像处理、场景处理、变量处理、存档处理等部分。
+
+对于基础用户只需要编写脚本，就可以制作属于自己的AVG游戏了
+
+{% hint style="info" %}
+脚本系统在运行的时候会预先从游戏的脚本目录（默认情况下位于`assets/data/scripts`）下读取入口脚本文件（默认是`start.avs`）。具体的执行流程如下：`IO -> Transpiler -> VM -> Engine`
+{% endhint %}
+
+
+

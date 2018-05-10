@@ -34,5 +34,17 @@ $ git clone https://github.com/AngryPowman/avg.renderer.git
 npm link
 ```
 
+在 avg.render目录下
+
+{% code-tabs %}
+{% code-tabs-item title="Bash" %}
+```bash
+npm install
+npm link "avg-engine"
+npm run electron:dev
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
 
 
