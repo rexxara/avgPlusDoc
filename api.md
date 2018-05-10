@@ -13,15 +13,15 @@ description: API
 *  显示对话框并展示一段对话文本。
 
 ```javascript
- api.showText("少年，你想知道什么呢？", {
-  name: "风见",
-   character: {
-    index: 4,
-     avatar: {
-      file: "tutorial/girl-normal.png" 
-      }
-       }
-});
+    api.showText("少年，你想知道什么呢？", {
+        name: "风见",
+        character: {
+            index: 4,
+            avatar: {
+                file: "tutorial/girl-normal.png"
+            }
+        }
+    });
 ```
 
 
