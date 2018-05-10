@@ -1,4 +1,6 @@
 # Table of contents
 
-* [AVGplus文档](README.md)
+* [AVGPlus文档](README.md)
+* 架构
+* 快速开始
 

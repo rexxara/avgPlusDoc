@@ -1,8 +1,8 @@
 ---
-description: 跨平台、灵活、低门槛的AVG引擎
+description: home page
 ---
 
-# AVGplus文档
+# AVGPlus文档
 
 欢迎使用AVG Plus文档。 AVG Plus是一个跨平台、灵活、低门槛的AVG引擎。引擎拥有超多开放的API，使游戏作者可以很轻易从零到一开发文字游戏。你可以用来制作有声小说，甚至可以基于更高级的插件机制开发定制化的游戏特性。
 
