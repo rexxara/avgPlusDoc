@@ -1,7 +1,3 @@
----
-description: Architecture
----
-
 # 架构
 
 `AVGPlus` 总共分为两个部分。分别是 [`avg.engine`](https://github.com/AngryPowman/avg.engine) 和 [`avg.renderer`](https://github.com/AngryPowman/avg.renderer).

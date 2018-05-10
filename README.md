@@ -1,12 +1,8 @@
----
-description: home page
----
+# 关于 AVGPlus
 
-# AVGPlus文档
+AVGPlus 是一个跨平台、灵活、门槛低的文字游戏制作引擎，可以把游戏发布到 Windows、Mac 桌面平台下，同时还可以发布到 Web 浏览器, Android 以及 iOS 下。可以胜几乎任意类型的 Galgame, 包括有声小说、解谜游戏等。引擎拥有超多开放的游戏API，游戏作者可以很轻易从0到1开发文字冒险游戏，甚至可以基于更高级的插件机制开发定制化的游戏特性。
 
-#### 欢迎使用AVG Plus文档。 [AVGPlus](https://github.com/AngryPowman/avg.engine)是一个跨平台、灵活、低门槛的AVG引擎。引擎拥有超多开放的API，使游戏作者可以很轻易从零到一开发文字游戏。你可以用来制作有声小说，甚至可以基于更高级的插件机制开发定制化的游戏特性。
 
-####  AVG Plus的脚本又被成为AVScript, 是一门基于JavaScript的脚本语言。如果你有JavaScript基础，那么将很容易入门。即使你从来没有接触过编程语言，AVScript对于你而言也十分基础，简单易上手。
 
 
 
